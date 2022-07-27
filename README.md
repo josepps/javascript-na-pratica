@@ -1,10 +1,15 @@
 <p align="center">
-  <img alt="Pelando" height="64" src="./banner.png">
+  <img alt="Pelando" height="64" src="./logo.png">
 </p>
 
-<h1 align="center">Exercicios de Javascript utilizando funções</h1>
+<h1 align="center">HACKERS</h1>
 
-## Alguns exercícios necessitam foram iniciados enquanto outros será codado do zero.
+### Exercicios de Javascript utilizando funções 
+
+## Instruções
+
+
+Alguns exercícios necessitam foram iniciados enquanto outros será codado do zero.
 
 O objetivo é exercitar o uso de "function"
 Documentação de apoio:
