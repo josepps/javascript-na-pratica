@@ -5,7 +5,7 @@ function checkDado(dado) {
 
     if(typeof dado === 'string') {
         console.log("Este dado é uma string");
-    }
+    } 
    // implementar para number
     // implementar para boolean
 }
