@@ -1,12 +1,17 @@
 //Crie uma função que checka o tipo de dado se string, number, boolean
-
-
-function checkDado(dado) {
-
-    if(typeof dado === 'string') {
-        console.log("Este dado é uma string");
-    } 
    // implementar para number
     // implementar para boolean
-}
-checkDado("bolinha");
+
+    function checkdado(dado) {
+        if (typeof dado === 'string') {
+            console.log('Este dado é uma string');
+        }
+        else if (typeof dado === 'number') {
+            console.log('Este dado é um number')
+        }
+        else if (typeof dado === 'boolean') {
+            console.log('Este dado é um boolean')
+        }
+    }
+
+    checkdado(true)
